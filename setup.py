@@ -4,13 +4,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name='pymongo-cursor-json-encoder',
-    packages=['pymongo-cursor-json-encoder'],
+    name='pymongo_cursor_json_encoder',
+    packages=['pymongo_cursor_json_encoder'],
     version='0.2.0',
     license='MIT',
     description='Convert pymongo Cursor objects to JSON',
     long_description=long_description,
-    long_description_content_type="text/markdown",
+    long_description_content_type='text/markdown',
     author='Roger Vilà',
     author_email='rogervila@me.com',
     url='https://github.com/rogervila/pymongo-cursor-json-encoder',
