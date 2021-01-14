@@ -10,7 +10,7 @@ setup(
     author_email='rogervila@me.com',
     url='https://github.com/rogervila/pymongo-cursor-json-encoder',
     download_url='https://github.com/rogervila/pymongo-cursor-json-encoder/archive/0.1.0-rc.1.tar.gz',
-    keywords=['pymongo', 'cursor', 'json'],
+    keywords=['pymongo', 'cursor', 'json', 'encoder'],
     install_requires=[
         'isodate',
     ],
