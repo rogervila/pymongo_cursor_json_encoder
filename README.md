@@ -1,2 +1,5 @@
-# python-mongo-json-encoder
-https://stackoverflow.com/a/51773611/3333549
+# PyMongo Cursor JSON Encoder
+
+Convert pymongo Cursor objects to JSON
+
+Original code: https://stackoverflow.com/a/51773611/3333549
