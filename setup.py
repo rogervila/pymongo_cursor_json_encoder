@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name='PymongoCursorJSONEncoder',
     packages=['PymongoCursorJSONEncoder'],
-    version='0.3.0',
+    version='0.4.0',
     license='MIT',
     description='Convert pymongo Cursor objects to JSON',
     long_description=long_description,
@@ -14,7 +14,7 @@ setup(
     author='Roger Vilà',
     author_email='rogervila@me.com',
     url='https://github.com/rogervila/PymongoCursorJSONEncoder',
-    download_url='https://github.com/rogervila/PymongoCursorJSONEncoder/archive/0.3.0.tar.gz',
+    download_url='https://github.com/rogervila/pymongo_cursor_json_encoder/archive/0.4.0.tar.gz',
     keywords=['pymongo', 'cursor', 'json', 'encoder'],
     install_requires=[
         'isodate',
