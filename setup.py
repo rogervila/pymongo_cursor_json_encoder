@@ -17,7 +17,7 @@ setup(
     download_url='https://github.com/rogervila/pymongo_cursor_json_encoder/archive/0.4.0.tar.gz',
     keywords=['pymongo', 'cursor', 'json', 'encoder'],
     install_requires=[
-        'isodate',
+        'isodate', 'bson'
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
