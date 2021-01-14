@@ -9,7 +9,7 @@ setup(
     author='Roger Vilà',
     author_email='rogervila@me.com',
     url='https://github.com/rogervila/pymongo-cursor-json-encoder',
-    download_url='https://github.com/user/reponame/archive/v_01.tar.gz', # TODO
+    download_url='https://github.com/rogervila/pymongo-cursor-json-encoder/archive/0.1.0-rc.1.tar.gz',
     keywords=['pymongo', 'cursor', 'json'],
     install_requires=[
         'isodate',
